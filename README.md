@@ -9,7 +9,7 @@ now applying that foundation to networking and security fundamentals.
 ## Certifications
 - Introduction to Cybersecurity & Networking Basics — Cisco Networking Academy
 - Cybersecurity Certification Program — OPSWAT
-- Google Cybersecurity Professional Certificate — In Progress
+- Google Cybersecurity Professional Certificate — Completed
 
 ## Featured Projects
 - [Secure Office Network Design](https://github.com/Olamil/office-network-design) — 
